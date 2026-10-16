@@ -106,13 +106,7 @@ Parameter 0 of constructor in com.ejemplo.holamundo.controller.SaludoController 
 
 ---
 
-### 7. Enlace a DeepWiki y Repositorio en GitHub
-- **Repositorio GitHub:** [https://github.com/heiling-18/holamundo-springboot](https://github.com/heiling-18/holamundo-springboot)
-- **DeepWiki:** [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/heiling-18/holamundo-springboot) — [https://deepwiki.com/heiling-18/holamundo-springboot](https://deepwiki.com/heiling-18/holamundo-springboot)
-
----
-
-### 8. Pregunta de reflexión
+### 7. Pregunta de reflexión
 
 **¿Qué diferencia hay entre `@RestController` y `@Service`, y por qué Spring puede entregar el servicio al controlador sin usar `new`?**
 
