@@ -4,7 +4,7 @@ Aplicación **Spring Boot 4** con endpoints REST aplicando controladores (`@Rest
 
 ---
 
-## 📋 Datos del Proyecto
+## Datos del Proyecto
 
 | Campo | Valor |
 |---|---|
@@ -19,7 +19,7 @@ Aplicación **Spring Boot 4** con endpoints REST aplicando controladores (`@Rest
 
 ---
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 
 ```text
 src/main/java/com/ejemplo/holamundo/
@@ -39,7 +39,7 @@ src/main/resources/
 
 ---
 
-## 🚀 Endpoints Implementados
+## Endpoints Implementados
 
 | Método | Endpoint | Status Esperado | Respuesta | Descripción |
 |---|---|---|---|---|
@@ -51,9 +51,7 @@ src/main/resources/
 
 ---
 
-## 📸 Entregables — Capturas de Pantalla
-
-> 💡 **Instrucción:** Guarda tus capturas de pantalla dentro de la carpeta [`img/`](./img/) con los nombres indicados abajo (o cambia la ruta en el paréntesis `(...)` de cada imagen).
+## Entregables — Capturas de Pantalla
 
 ### 1. Estructura del proyecto en el IDE
 ![Estructura del proyecto en el IDE](img/01-estructura-proyecto.png)
@@ -129,7 +127,7 @@ Parameter 0 of constructor in com.ejemplo.holamundo.controller.SaludoController 
 
 ---
 
-## ▶️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 Desde la terminal en la raíz del proyecto:
 
